@@ -1,0 +1,102 @@
+﻿D:\Visual\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (TF_Programacion.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  main.cpp
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Botiquin.h(6,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Botiquin.h(7,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Inmunidad.h(6,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Inmunidad.h(7,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Jeringa.h(6,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Jeringa.h(7,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Pildoras.h(8,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Pildoras.h(9,45): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller.h(69,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller.h(69,122): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller.h(73,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller.h(73,122): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Binary.h(50,25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel1.h(23,93): warning C4244: 'argumento': conversión de 'float' a 'short'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel1.h(23,58): warning C4244: 'argumento': conversión de 'float' a 'short'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel1.h(51,19): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel1.h(51,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\EvDelta.h(8,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\EvDelta.h(9,40): warning C4244: '=': conversión de 'float' a 'short'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\EvOmicron.h(9,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\EvOmega.h(8,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Llave.h(6,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Llave.h(7,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller2.h(83,84): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller2.h(86,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller2.h(86,110): warning C4244: 'argumento': conversión de 'float' a 'short'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Controller2.h(89,75): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel2.h(26,134): warning C4244: 'argumento': conversión de 'float' a 'short'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel2.h(26,102): warning C4244: 'argumento': conversión de 'float' a 'short'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel2.h(26,62): warning C4244: 'argumento': conversión de 'float' a 'short'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel2.h(69,19): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\Nivel2.h(69,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "main.cpp")
+  
+  .NETFramework,Version=v4.8.1.AssemblyAttributes.cpp
+  Generando código...
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF_Programacion.vcxproj -> C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\x64\Debug\TFProgramacion.exe

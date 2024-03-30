@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Clases de Virus">
+      <UniqueIdentifier>{6b8ebaf2-ad67-480e-9957-36ea12df383e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Objetos">
+      <UniqueIdentifier>{f9d2a21e-aaa3-4aea-9b80-8593b5d660dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Improving Code">
+      <UniqueIdentifier>{70fd4c90-82e9-41a3-8e5a-d9bdb71d924c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Controllers">
+      <UniqueIdentifier>{a9b01549-a09f-4ff7-a3c4-1a9403643ea6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Forms">
+      <UniqueIdentifier>{1e40cc79-9c1d-4c45-aa6d-a4e1d97af342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Forms\Data Proyect">
+      <UniqueIdentifier>{9ee6b78f-792c-49d1-8318-34b66b111934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Players">
+      <UniqueIdentifier>{32f8e346-0614-4c65-a80b-279fc2cf713f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Presentacion_Form.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Nivel1.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm2.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Creditos.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Nivel2.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Pantalla_Victoria.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Pantalla_Derrota.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Registro.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Datos.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="EvDelta.h">
+      <Filter>Archivos de encabezado\Clases de Virus</Filter>
+    </ClInclude>
+    <ClInclude Include="Omega.h">
+      <Filter>Archivos de encabezado\Clases de Virus</Filter>
+    </ClInclude>
+    <ClInclude Include="EvOmega.h">
+      <Filter>Archivos de encabezado\Clases de Virus</Filter>
+    </ClInclude>
+    <ClInclude Include="EvOmicron.h">
+      <Filter>Archivos de encabezado\Clases de Virus</Filter>
+    </ClInclude>
+    <ClInclude Include="Delta.h">
+      <Filter>Archivos de encabezado\Clases de Virus</Filter>
+    </ClInclude>
+    <ClInclude Include="Omicron.h">
+      <Filter>Archivos de encabezado\Clases de Virus</Filter>
+    </ClInclude>
+    <ClInclude Include="Bala.h">
+      <Filter>Archivos de encabezado\Objetos</Filter>
+    </ClInclude>
+    <ClInclude Include="Botiquin.h">
+      <Filter>Archivos de encabezado\Objetos</Filter>
+    </ClInclude>
+    <ClInclude Include="Inmunidad.h">
+      <Filter>Archivos de encabezado\Objetos</Filter>
+    </ClInclude>
+    <ClInclude Include="Llave.h">
+      <Filter>Archivos de encabezado\Objetos</Filter>
+    </ClInclude>
+    <ClInclude Include="Jeringa.h">
+      <Filter>Archivos de encabezado\Objetos</Filter>
+    </ClInclude>
+    <ClInclude Include="Clases.h">
+      <Filter>Archivos de encabezado\Improving Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Clases2.h">
+      <Filter>Archivos de encabezado\Improving Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Binary.h">
+      <Filter>Archivos de encabezado\Improving Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Entidad.h">
+      <Filter>Archivos de encabezado\Improving Code</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Archivos de encabezado\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller2.h">
+      <Filter>Archivos de encabezado\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="Pildoras.h">
+      <Filter>Archivos de encabezado\Objetos</Filter>
+    </ClInclude>
+    <ClInclude Include="Doctor.h">
+      <Filter>Archivos de encabezado\Players</Filter>
+    </ClInclude>
+    <ClInclude Include="Jugador1.h">
+      <Filter>Archivos de encabezado\Players</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

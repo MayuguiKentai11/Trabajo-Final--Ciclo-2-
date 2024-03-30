@@ -1,0 +1,25 @@
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TF_Programacion.vcxproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TF_Programacion.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TF_Programacion.vcxproj.GenerateResource.cache
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Presentacion_Form.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Nivel1.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.MyForm2.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Creditos.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Room.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Nivel2.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Pantalla_Victoria.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Pantalla_Derrota.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Registro.resources
+C:\Users\mauri\source\repos\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Datos.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TF_Programacion.vcxproj.AssemblyReference.cache
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Creditos.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Datos.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.MyForm2.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Nivel1.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Nivel2.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Pantalla_Derrota.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Pantalla_Victoria.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Presentacion_Form.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Registro.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TFProgramacion.Room.resources
+C:\Users\mauri\OneDrive - Universidad Peruana de Ciencias\TF_Programacion\TF_Programacion\x64\Debug\TF_Programacion.vcxproj.GenerateResource.cache

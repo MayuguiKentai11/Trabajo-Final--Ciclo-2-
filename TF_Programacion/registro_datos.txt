@@ -1,0 +1,3 @@
+                  Registro de Datos
+Nombre del Jugador: 
+Edad del jugador: 0

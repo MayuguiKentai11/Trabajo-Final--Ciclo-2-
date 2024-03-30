@@ -1,0 +1,11 @@
+#pragma once
+#include "Bala.h"
+#include "Botiquin.h"
+#include "Delta.h"
+#include "Doctor.h"
+#include "Inmunidad.h"
+#include "Jeringa.h"
+#include "Pildoras.h"
+#include "Omicron.h"
+#include "Omega.h"
+#include "Jugador1.h"
